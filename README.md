@@ -1,1 +1,0 @@
-# insulation_resistance.py
